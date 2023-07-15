@@ -1,0 +1,428 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.freeon.tappoker"
+4    android:installLocation="preferExternal"
+5    android:versionCode="80"
+6    android:versionName="1.5.9" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="22"
+9-->D:\Project_Outsourcing\TapPoker_AndroidStudio0714\launcher\src\main\AndroidManifest.xml
+10        android:targetSdkVersion="33" />
+10-->D:\Project_Outsourcing\TapPoker_AndroidStudio0714\launcher\src\main\AndroidManifest.xml
+11
+12    <supports-screens
+12-->D:\Project_Outsourcing\TapPoker_AndroidStudio0714\launcher\src\main\AndroidManifest.xml:3:3-163
+13        android:anyDensity="true"
+13-->D:\Project_Outsourcing\TapPoker_AndroidStudio0714\launcher\src\main\AndroidManifest.xml:3:135-160
+14        android:largeScreens="true"
+14-->D:\Project_Outsourcing\TapPoker_AndroidStudio0714\launcher\src\main\AndroidManifest.xml:3:78-105
+15        android:normalScreens="true"
+15-->D:\Project_Outsourcing\TapPoker_AndroidStudio0714\launcher\src\main\AndroidManifest.xml:3:49-77
+16        android:smallScreens="true"
+16-->D:\Project_Outsourcing\TapPoker_AndroidStudio0714\launcher\src\main\AndroidManifest.xml:3:21-48
+17        android:xlargeScreens="true" />
+17-->D:\Project_Outsourcing\TapPoker_AndroidStudio0714\launcher\src\main\AndroidManifest.xml:3:106-134
+18
+19    <uses-feature android:glEsVersion="0x00030000" />
+19-->[:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-54
+19-->[:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:19-51
+20    <uses-feature
+20-->[:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-15:36
+21        android:name="android.hardware.vulkan.version"
+21-->[:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:9-55
+22        android:required="false" />
+22-->[:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:9-33
+23
+24    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+24-->[:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:5-71
+24-->[:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:22-68
+25    <uses-permission android:name="android.permission.INTERNET" />
+25-->[:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:5-67
+25-->[:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:22-64
+26    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+26-->[:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:5-76
+26-->[:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:22-73
+27    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+27-->[:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:20:5-76
+27-->[:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:20:22-73
+28    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+28-->[:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:21:5-79
+28-->[:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:21:22-76
+29    <uses-permission android:name="android.permission.VIBRATE" />
+29-->[:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:22:5-66
+29-->[:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:22:22-63
+30    <uses-permission android:name="com.android.vending.BILLING" />
+30-->[:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:23:5-67
+30-->[:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:23:22-64
+31    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+31-->[:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:24:5-80
+31-->[:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:24:22-77
+32    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+32-->[:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:25:5-81
+32-->[:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:25:22-78
+33
+34    <uses-feature
+34-->[:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:27:5-29:36
+35        android:name="android.software.leanback"
+35-->[:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:28:9-49
+36        android:required="false" />
+36-->[:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:29:9-33
+37    <uses-feature
+37-->[:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:30:5-32:36
+38        android:name="android.hardware.touchscreen"
+38-->[:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:31:9-52
+39        android:required="false" />
+39-->[:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:32:9-33
+40    <uses-feature
+40-->[:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:33:5-35:36
+41        android:name="android.hardware.touchscreen.multitouch"
+41-->[:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:34:9-63
+42        android:required="false" />
+42-->[:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:35:9-33
+43    <uses-feature
+43-->[:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:36:5-38:36
+44        android:name="android.hardware.touchscreen.multitouch.distinct"
+44-->[:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:37:9-72
+45        android:required="false" /> <!-- Optional permission for Analytics to run. -->
+45-->[:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:38:9-33
+46    <uses-permission android:name="android.permission.WAKE_LOCK" />
+46-->[com.google.android.gms:play-services-analytics:18.0.1] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\b9cdab80b1d815825dc0c786d3310fdd\jetified-play-services-analytics-18.0.1\AndroidManifest.xml:27:5-68
+46-->[com.google.android.gms:play-services-analytics:18.0.1] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\b9cdab80b1d815825dc0c786d3310fdd\jetified-play-services-analytics-18.0.1\AndroidManifest.xml:27:22-65
+47    <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
+47-->[com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\cb09fe77f0d3b6e15eb23e6a51983271\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:25:5-79
+47-->[com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\cb09fe77f0d3b6e15eb23e6a51983271\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:25:22-76
+48    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+48-->[com.google.android.gms:play-services-measurement:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\b2fa408734b36ac8ec38efa4c57c75c5\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:26:5-110
+48-->[com.google.android.gms:play-services-measurement:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\b2fa408734b36ac8ec38efa4c57c75c5\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:26:22-107
+49
+50    <application
+50-->D:\Project_Outsourcing\TapPoker_AndroidStudio0714\launcher\src\main\AndroidManifest.xml:4:3-126
+51        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+51-->[androidx.core:core:1.3.2] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\1acef4355135e9339f2e8deabed46751\core-1.3.2\AndroidManifest.xml:24:18-86
+52        android:debuggable="true"
+53        android:extractNativeLibs="true"
+53-->[:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:40:18-50
+54        android:icon="@mipmap/app_icon"
+54-->D:\Project_Outsourcing\TapPoker_AndroidStudio0714\launcher\src\main\AndroidManifest.xml:4:49-80
+55        android:label="@string/app_name"
+55-->D:\Project_Outsourcing\TapPoker_AndroidStudio0714\launcher\src\main\AndroidManifest.xml:4:16-48
+56        android:roundIcon="@mipmap/app_icon_round"
+56-->D:\Project_Outsourcing\TapPoker_AndroidStudio0714\launcher\src\main\AndroidManifest.xml:4:81-123
+57        android:supportsRtl="true" >
+57-->[com.facebook.android:facebook-login:11.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\316aec7859919f383a6fb95cb6faf457\jetified-facebook-login-11.0.0\AndroidManifest.xml:28:18-44
+58        <activity
+58-->[:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:41:9-62:20
+59            android:name="com.unity3d.player.UnityPlayerActivity"
+59-->[:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:42:13-66
+60            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
+60-->[:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:43:13-194
+61            android:exported="true"
+61-->[:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:44:13-36
+62            android:hardwareAccelerated="false"
+62-->[:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:45:13-48
+63            android:launchMode="singleTask"
+63-->[:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:46:13-44
+64            android:resizeableActivity="false"
+64-->[:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:47:13-47
+65            android:screenOrientation="landscape"
+65-->[:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:48:13-50
+66            android:theme="@style/UnityThemeSelector" >
+66-->[:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:49:13-54
+67            <intent-filter>
+67-->[:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:50:13-54:29
+68                <action android:name="android.intent.action.MAIN" />
+68-->[:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:51:17-69
+68-->[:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:51:25-66
+69
+70                <category android:name="android.intent.category.LAUNCHER" />
+70-->[:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:53:17-77
+70-->[:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:53:27-74
+71            </intent-filter>
+72
+73            <meta-data
+73-->[:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:56:13-58:40
+74                android:name="unityplayer.UnityActivity"
+74-->[:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:57:17-57
+75                android:value="true" />
+75-->[:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:58:17-37
+76            <meta-data
+76-->[:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:59:13-61:40
+77                android:name="android.notch_support"
+77-->[:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:60:17-53
+78                android:value="true" />
+78-->[:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:61:17-37
+79        </activity>
+80
+81        <meta-data
+81-->[:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:64:9-66:33
+82            android:name="unity.splash-mode"
+82-->[:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:65:13-45
+83            android:value="2" />
+83-->[:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:66:13-30
+84        <meta-data
+84-->[:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:67:9-69:36
+85            android:name="unity.splash-enable"
+85-->[:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:68:13-47
+86            android:value="True" />
+86-->[:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:69:13-33
+87        <meta-data
+87-->[:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:70:9-72:36
+88            android:name="unity.launch-fullscreen"
+88-->[:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:71:13-51
+89            android:value="True" />
+89-->[:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:72:13-33
+90        <meta-data
+90-->[:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:73:9-75:37
+91            android:name="unity.allow-resizable-window"
+91-->[:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:74:13-56
+92            android:value="False" />
+92-->[:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:75:13-34
+93        <meta-data
+93-->[:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:76:9-78:50
+94            android:name="notch.config"
+94-->[:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:77:13-40
+95            android:value="portrait|landscape" /> <!-- Facebook -->
+95-->[:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:78:13-47
+96        <meta-data
+96-->[:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:81:9-83:53
+97            android:name="com.facebook.sdk.ApplicationId"
+97-->[:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:82:13-58
+98            android:value="@string/facebookAppID" />
+98-->[:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:83:13-50
+99        <meta-data
+99-->[:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:84:9-86:35
+100            android:name="android.max_aspect"
+100-->[:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:85:13-46
+101            android:value="2.1" />
+101-->[:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:86:13-32
+102
+103        <activity
+103-->[:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:88:9-90:59
+104            android:name="com.theartofdev.edmodo.cropper.CropImageActivity"
+104-->[:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:89:13-76
+105            android:theme="@style/Base.Theme.AppCompat" />
+105-->[:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:90:13-56
+106        <activity
+106-->[com.google.android.gms:play-services-auth:20.2.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\56f8e6135e8d3f3990666372a4b37923\jetified-play-services-auth-20.2.0\AndroidManifest.xml:23:9-27:75
+107            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+107-->[com.google.android.gms:play-services-auth:20.2.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\56f8e6135e8d3f3990666372a4b37923\jetified-play-services-auth-20.2.0\AndroidManifest.xml:24:13-93
+108            android:excludeFromRecents="true"
+108-->[com.google.android.gms:play-services-auth:20.2.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\56f8e6135e8d3f3990666372a4b37923\jetified-play-services-auth-20.2.0\AndroidManifest.xml:25:13-46
+109            android:exported="false"
+109-->[com.google.android.gms:play-services-auth:20.2.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\56f8e6135e8d3f3990666372a4b37923\jetified-play-services-auth-20.2.0\AndroidManifest.xml:26:13-37
+110            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+110-->[com.google.android.gms:play-services-auth:20.2.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\56f8e6135e8d3f3990666372a4b37923\jetified-play-services-auth-20.2.0\AndroidManifest.xml:27:13-72
+111        <!--
+112            Service handling Google Sign-In user revocation. For apps that do not integrate with
+113            Google Sign-In, this service will never be started.
+114        -->
+115        <service
+115-->[com.google.android.gms:play-services-auth:20.2.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\56f8e6135e8d3f3990666372a4b37923\jetified-play-services-auth-20.2.0\AndroidManifest.xml:33:9-37:51
+116            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+116-->[com.google.android.gms:play-services-auth:20.2.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\56f8e6135e8d3f3990666372a4b37923\jetified-play-services-auth-20.2.0\AndroidManifest.xml:34:13-89
+117            android:exported="true"
+117-->[com.google.android.gms:play-services-auth:20.2.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\56f8e6135e8d3f3990666372a4b37923\jetified-play-services-auth-20.2.0\AndroidManifest.xml:35:13-36
+118            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"
+118-->[com.google.android.gms:play-services-auth:20.2.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\56f8e6135e8d3f3990666372a4b37923\jetified-play-services-auth-20.2.0\AndroidManifest.xml:36:13-107
+119            android:visibleToInstantApps="true" />
+119-->[com.google.android.gms:play-services-auth:20.2.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\56f8e6135e8d3f3990666372a4b37923\jetified-play-services-auth-20.2.0\AndroidManifest.xml:37:13-48
+120
+121        <receiver
+121-->[com.google.android.gms:play-services-analytics:18.0.1] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\b9cdab80b1d815825dc0c786d3310fdd\jetified-play-services-analytics-18.0.1\AndroidManifest.xml:30:9-34:20
+122            android:name="com.google.android.gms.analytics.AnalyticsReceiver"
+122-->[com.google.android.gms:play-services-analytics:18.0.1] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\b9cdab80b1d815825dc0c786d3310fdd\jetified-play-services-analytics-18.0.1\AndroidManifest.xml:31:13-78
+123            android:enabled="true"
+123-->[com.google.android.gms:play-services-analytics:18.0.1] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\b9cdab80b1d815825dc0c786d3310fdd\jetified-play-services-analytics-18.0.1\AndroidManifest.xml:32:13-35
+124            android:exported="false" >
+124-->[com.google.android.gms:play-services-analytics:18.0.1] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\b9cdab80b1d815825dc0c786d3310fdd\jetified-play-services-analytics-18.0.1\AndroidManifest.xml:33:13-37
+125        </receiver>
+126
+127        <service
+127-->[com.google.android.gms:play-services-analytics:18.0.1] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\b9cdab80b1d815825dc0c786d3310fdd\jetified-play-services-analytics-18.0.1\AndroidManifest.xml:36:9-39:40
+128            android:name="com.google.android.gms.analytics.AnalyticsService"
+128-->[com.google.android.gms:play-services-analytics:18.0.1] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\b9cdab80b1d815825dc0c786d3310fdd\jetified-play-services-analytics-18.0.1\AndroidManifest.xml:37:13-77
+129            android:enabled="true"
+129-->[com.google.android.gms:play-services-analytics:18.0.1] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\b9cdab80b1d815825dc0c786d3310fdd\jetified-play-services-analytics-18.0.1\AndroidManifest.xml:38:13-35
+130            android:exported="false" />
+130-->[com.google.android.gms:play-services-analytics:18.0.1] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\b9cdab80b1d815825dc0c786d3310fdd\jetified-play-services-analytics-18.0.1\AndroidManifest.xml:39:13-37
+131        <service
+131-->[com.google.android.gms:play-services-analytics:18.0.1] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\b9cdab80b1d815825dc0c786d3310fdd\jetified-play-services-analytics-18.0.1\AndroidManifest.xml:40:9-44:72
+132            android:name="com.google.android.gms.analytics.AnalyticsJobService"
+132-->[com.google.android.gms:play-services-analytics:18.0.1] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\b9cdab80b1d815825dc0c786d3310fdd\jetified-play-services-analytics-18.0.1\AndroidManifest.xml:41:13-80
+133            android:enabled="true"
+133-->[com.google.android.gms:play-services-analytics:18.0.1] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\b9cdab80b1d815825dc0c786d3310fdd\jetified-play-services-analytics-18.0.1\AndroidManifest.xml:42:13-35
+134            android:exported="false"
+134-->[com.google.android.gms:play-services-analytics:18.0.1] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\b9cdab80b1d815825dc0c786d3310fdd\jetified-play-services-analytics-18.0.1\AndroidManifest.xml:43:13-37
+135            android:permission="android.permission.BIND_JOB_SERVICE" />
+135-->[com.google.android.gms:play-services-analytics:18.0.1] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\b9cdab80b1d815825dc0c786d3310fdd\jetified-play-services-analytics-18.0.1\AndroidManifest.xml:44:13-69
+136
+137        <activity
+137-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\62a1a84319f646d62802aa4a8b9fc77c\jetified-play-services-base-18.1.0\AndroidManifest.xml:20:9-22:45
+138            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+138-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\62a1a84319f646d62802aa4a8b9fc77c\jetified-play-services-base-18.1.0\AndroidManifest.xml:20:19-85
+139            android:exported="false"
+139-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\62a1a84319f646d62802aa4a8b9fc77c\jetified-play-services-base-18.1.0\AndroidManifest.xml:22:19-43
+140            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+140-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\62a1a84319f646d62802aa4a8b9fc77c\jetified-play-services-base-18.1.0\AndroidManifest.xml:21:19-78
+141
+142        <meta-data
+142-->[com.android.billingclient:billing:4.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\7e0e63b4db372a30b5f74e27d27517eb\jetified-billing-4.0.0\AndroidManifest.xml:13:9-15:37
+143            android:name="com.google.android.play.billingclient.version"
+143-->[com.android.billingclient:billing:4.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\7e0e63b4db372a30b5f74e27d27517eb\jetified-billing-4.0.0\AndroidManifest.xml:14:13-73
+144            android:value="4.0.0" />
+144-->[com.android.billingclient:billing:4.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\7e0e63b4db372a30b5f74e27d27517eb\jetified-billing-4.0.0\AndroidManifest.xml:15:13-34
+145
+146        <activity
+146-->[com.android.billingclient:billing:4.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\7e0e63b4db372a30b5f74e27d27517eb\jetified-billing-4.0.0\AndroidManifest.xml:17:9-21:75
+147            android:name="com.android.billingclient.api.ProxyBillingActivity"
+147-->[com.android.billingclient:billing:4.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\7e0e63b4db372a30b5f74e27d27517eb\jetified-billing-4.0.0\AndroidManifest.xml:18:13-78
+148            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+148-->[com.android.billingclient:billing:4.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\7e0e63b4db372a30b5f74e27d27517eb\jetified-billing-4.0.0\AndroidManifest.xml:19:13-96
+149            android:exported="false"
+149-->[com.android.billingclient:billing:4.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\7e0e63b4db372a30b5f74e27d27517eb\jetified-billing-4.0.0\AndroidManifest.xml:20:13-37
+150            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+150-->[com.android.billingclient:billing:4.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\7e0e63b4db372a30b5f74e27d27517eb\jetified-billing-4.0.0\AndroidManifest.xml:21:13-72
+151        <activity
+151-->[com.facebook.android:facebook-common:11.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\778a3cc3d23c536d9ec19f7baabe2745\jetified-facebook-common-11.0.0\AndroidManifest.xml:30:9-33:66
+152            android:name="com.facebook.FacebookActivity"
+152-->[com.facebook.android:facebook-common:11.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\778a3cc3d23c536d9ec19f7baabe2745\jetified-facebook-common-11.0.0\AndroidManifest.xml:31:13-57
+153            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+153-->[com.facebook.android:facebook-common:11.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\778a3cc3d23c536d9ec19f7baabe2745\jetified-facebook-common-11.0.0\AndroidManifest.xml:32:13-96
+154            android:theme="@style/com_facebook_activity_theme" />
+154-->[com.facebook.android:facebook-common:11.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\778a3cc3d23c536d9ec19f7baabe2745\jetified-facebook-common-11.0.0\AndroidManifest.xml:33:13-63
+155        <activity android:name="com.facebook.CustomTabMainActivity" />
+155-->[com.facebook.android:facebook-common:11.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\778a3cc3d23c536d9ec19f7baabe2745\jetified-facebook-common-11.0.0\AndroidManifest.xml:34:9-71
+155-->[com.facebook.android:facebook-common:11.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\778a3cc3d23c536d9ec19f7baabe2745\jetified-facebook-common-11.0.0\AndroidManifest.xml:34:19-68
+156        <activity
+156-->[com.facebook.android:facebook-common:11.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\778a3cc3d23c536d9ec19f7baabe2745\jetified-facebook-common-11.0.0\AndroidManifest.xml:35:9-49:20
+157            android:name="com.facebook.CustomTabActivity"
+157-->[com.facebook.android:facebook-common:11.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\778a3cc3d23c536d9ec19f7baabe2745\jetified-facebook-common-11.0.0\AndroidManifest.xml:36:13-58
+158            android:exported="true" >
+158-->[com.facebook.android:facebook-common:11.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\778a3cc3d23c536d9ec19f7baabe2745\jetified-facebook-common-11.0.0\AndroidManifest.xml:37:13-36
+159            <intent-filter>
+159-->[com.facebook.android:facebook-common:11.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\778a3cc3d23c536d9ec19f7baabe2745\jetified-facebook-common-11.0.0\AndroidManifest.xml:39:13-48:29
+160                <action android:name="android.intent.action.VIEW" />
+160-->[com.facebook.android:facebook-common:11.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\778a3cc3d23c536d9ec19f7baabe2745\jetified-facebook-common-11.0.0\AndroidManifest.xml:40:17-69
+160-->[com.facebook.android:facebook-common:11.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\778a3cc3d23c536d9ec19f7baabe2745\jetified-facebook-common-11.0.0\AndroidManifest.xml:40:25-66
+161
+162                <category android:name="android.intent.category.DEFAULT" />
+162-->[com.facebook.android:facebook-common:11.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\778a3cc3d23c536d9ec19f7baabe2745\jetified-facebook-common-11.0.0\AndroidManifest.xml:42:17-76
+162-->[com.facebook.android:facebook-common:11.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\778a3cc3d23c536d9ec19f7baabe2745\jetified-facebook-common-11.0.0\AndroidManifest.xml:42:27-73
+163                <category android:name="android.intent.category.BROWSABLE" />
+163-->[com.facebook.android:facebook-common:11.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\778a3cc3d23c536d9ec19f7baabe2745\jetified-facebook-common-11.0.0\AndroidManifest.xml:43:17-78
+163-->[com.facebook.android:facebook-common:11.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\778a3cc3d23c536d9ec19f7baabe2745\jetified-facebook-common-11.0.0\AndroidManifest.xml:43:27-75
+164
+165                <data
+165-->[com.facebook.android:facebook-common:11.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\778a3cc3d23c536d9ec19f7baabe2745\jetified-facebook-common-11.0.0\AndroidManifest.xml:45:17-47:50
+166                    android:host="cct.com.freeon.tappoker"
+166-->[com.facebook.android:facebook-common:11.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\778a3cc3d23c536d9ec19f7baabe2745\jetified-facebook-common-11.0.0\AndroidManifest.xml:46:21-56
+167                    android:scheme="fbconnect" />
+167-->[com.facebook.android:facebook-common:11.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\778a3cc3d23c536d9ec19f7baabe2745\jetified-facebook-common-11.0.0\AndroidManifest.xml:47:21-47
+168            </intent-filter>
+169        </activity>
+170        <!--
+171         The initialization ContentProvider will call FacebookSdk.sdkInitialize automatically
+172         with the application context. This config is merged in with the host app's manifest,
+173         but there can only be one provider with the same authority activated at any given
+174         point; so if the end user has two or more different apps that use Facebook SDK, only the
+175         first one will be able to use the provider. To work around this problem, we use the
+176         following placeholder in the authority to identify each host application as if it was
+177         a completely different provider.
+178        -->
+179        <provider
+179-->[com.facebook.android:facebook-core:11.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\5e192b26cc7b1e19601a99bba2b6d1a3\jetified-facebook-core-11.0.0\AndroidManifest.xml:39:9-42:40
+180            android:name="com.facebook.internal.FacebookInitProvider"
+180-->[com.facebook.android:facebook-core:11.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\5e192b26cc7b1e19601a99bba2b6d1a3\jetified-facebook-core-11.0.0\AndroidManifest.xml:40:13-70
+181            android:authorities="com.freeon.tappoker.FacebookInitProvider"
+181-->[com.facebook.android:facebook-core:11.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\5e192b26cc7b1e19601a99bba2b6d1a3\jetified-facebook-core-11.0.0\AndroidManifest.xml:41:13-72
+182            android:exported="false" />
+182-->[com.facebook.android:facebook-core:11.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\5e192b26cc7b1e19601a99bba2b6d1a3\jetified-facebook-core-11.0.0\AndroidManifest.xml:42:13-37
+183
+184        <receiver
+184-->[com.facebook.android:facebook-core:11.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\5e192b26cc7b1e19601a99bba2b6d1a3\jetified-facebook-core-11.0.0\AndroidManifest.xml:44:9-50:20
+185            android:name="com.facebook.CurrentAccessTokenExpirationBroadcastReceiver"
+185-->[com.facebook.android:facebook-core:11.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\5e192b26cc7b1e19601a99bba2b6d1a3\jetified-facebook-core-11.0.0\AndroidManifest.xml:45:13-86
+186            android:exported="false" >
+186-->[com.facebook.android:facebook-core:11.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\5e192b26cc7b1e19601a99bba2b6d1a3\jetified-facebook-core-11.0.0\AndroidManifest.xml:46:13-37
+187            <intent-filter>
+187-->[com.facebook.android:facebook-core:11.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\5e192b26cc7b1e19601a99bba2b6d1a3\jetified-facebook-core-11.0.0\AndroidManifest.xml:47:13-49:29
+188                <action android:name="com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED" />
+188-->[com.facebook.android:facebook-core:11.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\5e192b26cc7b1e19601a99bba2b6d1a3\jetified-facebook-core-11.0.0\AndroidManifest.xml:48:17-95
+188-->[com.facebook.android:facebook-core:11.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\5e192b26cc7b1e19601a99bba2b6d1a3\jetified-facebook-core-11.0.0\AndroidManifest.xml:48:25-92
+189            </intent-filter>
+190        </receiver>
+191
+192        <service
+192-->[com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\cb09fe77f0d3b6e15eb23e6a51983271\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:28:9-34:19
+193            android:name="com.google.firebase.components.ComponentDiscoveryService"
+193-->[com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\cb09fe77f0d3b6e15eb23e6a51983271\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:29:13-84
+194            android:directBootAware="true"
+194-->[com.google.firebase:firebase-common:20.1.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\dd4fa3926b4f250faea617a70b87eec9\jetified-firebase-common-20.1.0\AndroidManifest.xml:35:13-43
+195            android:exported="false" >
+195-->[com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\cb09fe77f0d3b6e15eb23e6a51983271\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:30:13-37
+196            <meta-data
+196-->[com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\cb09fe77f0d3b6e15eb23e6a51983271\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:31:13-33:85
+197                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+197-->[com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\cb09fe77f0d3b6e15eb23e6a51983271\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:32:17-139
+198                android:value="com.google.firebase.components.ComponentRegistrar" />
+198-->[com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\cb09fe77f0d3b6e15eb23e6a51983271\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:33:17-82
+199            <meta-data
+199-->[com.google.firebase:firebase-installations:17.0.1] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\6a05c482ecd3e44ef7e028b27adbad14\jetified-firebase-installations-17.0.1\AndroidManifest.xml:18:13-20:85
+200                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+200-->[com.google.firebase:firebase-installations:17.0.1] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\6a05c482ecd3e44ef7e028b27adbad14\jetified-firebase-installations-17.0.1\AndroidManifest.xml:19:17-127
+201                android:value="com.google.firebase.components.ComponentRegistrar" />
+201-->[com.google.firebase:firebase-installations:17.0.1] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\6a05c482ecd3e44ef7e028b27adbad14\jetified-firebase-installations-17.0.1\AndroidManifest.xml:20:17-82
+202        </service>
+203
+204        <provider
+204-->[com.google.firebase:firebase-common:20.1.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\dd4fa3926b4f250faea617a70b87eec9\jetified-firebase-common-20.1.0\AndroidManifest.xml:26:9-31:39
+205            android:name="com.google.firebase.provider.FirebaseInitProvider"
+205-->[com.google.firebase:firebase-common:20.1.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\dd4fa3926b4f250faea617a70b87eec9\jetified-firebase-common-20.1.0\AndroidManifest.xml:27:13-77
+206            android:authorities="com.freeon.tappoker.firebaseinitprovider"
+206-->[com.google.firebase:firebase-common:20.1.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\dd4fa3926b4f250faea617a70b87eec9\jetified-firebase-common-20.1.0\AndroidManifest.xml:28:13-72
+207            android:directBootAware="true"
+207-->[com.google.firebase:firebase-common:20.1.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\dd4fa3926b4f250faea617a70b87eec9\jetified-firebase-common-20.1.0\AndroidManifest.xml:29:13-43
+208            android:exported="false"
+208-->[com.google.firebase:firebase-common:20.1.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\dd4fa3926b4f250faea617a70b87eec9\jetified-firebase-common-20.1.0\AndroidManifest.xml:30:13-37
+209            android:initOrder="100" />
+209-->[com.google.firebase:firebase-common:20.1.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\dd4fa3926b4f250faea617a70b87eec9\jetified-firebase-common-20.1.0\AndroidManifest.xml:31:13-36
+210
+211        <receiver
+211-->[com.google.android.gms:play-services-measurement:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\b2fa408734b36ac8ec38efa4c57c75c5\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:29:9-33:20
+212            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+212-->[com.google.android.gms:play-services-measurement:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\b2fa408734b36ac8ec38efa4c57c75c5\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:30:13-85
+213            android:enabled="true"
+213-->[com.google.android.gms:play-services-measurement:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\b2fa408734b36ac8ec38efa4c57c75c5\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:31:13-35
+214            android:exported="false" >
+214-->[com.google.android.gms:play-services-measurement:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\b2fa408734b36ac8ec38efa4c57c75c5\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:32:13-37
+215        </receiver>
+216
+217        <service
+217-->[com.google.android.gms:play-services-measurement:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\b2fa408734b36ac8ec38efa4c57c75c5\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:35:9-38:40
+218            android:name="com.google.android.gms.measurement.AppMeasurementService"
+218-->[com.google.android.gms:play-services-measurement:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\b2fa408734b36ac8ec38efa4c57c75c5\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:36:13-84
+219            android:enabled="true"
+219-->[com.google.android.gms:play-services-measurement:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\b2fa408734b36ac8ec38efa4c57c75c5\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:37:13-35
+220            android:exported="false" />
+220-->[com.google.android.gms:play-services-measurement:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\b2fa408734b36ac8ec38efa4c57c75c5\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:38:13-37
+221        <service
+221-->[com.google.android.gms:play-services-measurement:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\b2fa408734b36ac8ec38efa4c57c75c5\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:39:9-43:72
+222            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+222-->[com.google.android.gms:play-services-measurement:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\b2fa408734b36ac8ec38efa4c57c75c5\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:40:13-87
+223            android:enabled="true"
+223-->[com.google.android.gms:play-services-measurement:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\b2fa408734b36ac8ec38efa4c57c75c5\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:41:13-35
+224            android:exported="false"
+224-->[com.google.android.gms:play-services-measurement:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\b2fa408734b36ac8ec38efa4c57c75c5\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:42:13-37
+225            android:permission="android.permission.BIND_JOB_SERVICE" />
+225-->[com.google.android.gms:play-services-measurement:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\b2fa408734b36ac8ec38efa4c57c75c5\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:43:13-69
+226
+227        <meta-data
+227-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\e7364ba6eed0afa9eda39cd107079259\jetified-play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+228            android:name="com.google.android.gms.version"
+228-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\e7364ba6eed0afa9eda39cd107079259\jetified-play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+229            android:value="@integer/google_play_services_version" />
+229-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\e7364ba6eed0afa9eda39cd107079259\jetified-play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+230    </application>
+231
+232</manifest>

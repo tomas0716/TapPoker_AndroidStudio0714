@@ -1,0 +1,2 @@
+com/freeon/tappoker/BuildConfig.java
+ com.freeon.tappoker.BuildConfig

@@ -1,0 +1,751 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Project_Outsourcing\TapPoker_AndroidStudio0714\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from D:\Project_Outsourcing\TapPoker_AndroidStudio0714\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from D:\Project_Outsourcing\TapPoker_AndroidStudio0714\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from D:\Project_Outsourcing\TapPoker_AndroidStudio0714\launcher\src\main\AndroidManifest.xml:2:1-5:12
+MERGED from [:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-93:12
+MERGED from [com.facebook.android:facebook-login:11.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\316aec7859919f383a6fb95cb6faf457\jetified-facebook-login-11.0.0\AndroidManifest.xml:21:1-31:12
+MERGED from [com.google.firebase:firebase-core:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\1f1552e5ac925c49ff897bf0812c0d5f\jetified-firebase-core-21.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-auth:20.2.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\56f8e6135e8d3f3990666372a4b37923\jetified-play-services-auth-20.2.0\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-plus:17.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\062be77b94f7e75abac30f42258e8f0d\jetified-play-services-plus-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-analytics:18.0.1] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\b9cdab80b1d815825dc0c786d3310fdd\jetified-play-services-analytics-18.0.1\AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\f5e92fa98eeed0bc6c749ed863b2579b\jetified-play-services-auth-api-phone-18.0.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.1] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\82fcccf9585cad80bc8267b2d9eca8a9\jetified-play-services-auth-base-18.0.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-audience:17.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\8ef5a681e6ac4dff507af95d7eb6c70e\jetified-play-services-audience-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:18.0.1] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\c2d1980dd11a6b620fbc93a6347505ef\jetified-play-services-tagmanager-v4-impl-18.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-analytics-impl:18.0.1] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\f7fad17baf2a6ffe09a40fc06d8155ca\jetified-play-services-analytics-impl-18.0.1\AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\62a1a84319f646d62802aa4a8b9fc77c\jetified-play-services-base-18.1.0\AndroidManifest.xml:16:1-24:12
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.8.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\0c7bbf85200c141c887d27c4b2c8fa78\jetified-android-image-cropper-2.8.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.billingclient:billing:4.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\7e0e63b4db372a30b5f74e27d27517eb\jetified-billing-4.0.0\AndroidManifest.xml:2:1-24:12
+MERGED from [com.facebook.android:facebook-common:11.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\778a3cc3d23c536d9ec19f7baabe2745\jetified-facebook-common-11.0.0\AndroidManifest.xml:21:1-52:12
+MERGED from [com.facebook.android:facebook-core:11.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\5e192b26cc7b1e19601a99bba2b6d1a3\jetified-facebook-core-11.0.0\AndroidManifest.xml:21:1-53:12
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\3a3423fa5af288a3e2fd74894b8b8613\jetified-core-ktx-1.3.2\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\428f699ea1a8b6770ee6d8b89243813d\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-analytics:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\f427b3cceff1484dccaf9851e2719d41\jetified-firebase-analytics-21.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\cb09fe77f0d3b6e15eb23e6a51983271\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\6a05c482ecd3e44ef7e028b27adbad14\jetified-firebase-installations-17.0.1\AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-common:20.1.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\dd4fa3926b4f250faea617a70b87eec9\jetified-firebase-common-20.1.0\AndroidManifest.xml:15:1-40:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.1] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\d9ee9c4d042ad7c73ab0b3577697c431\jetified-firebase-installations-interop-17.0.1\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\4f36c52772523ef3457f2b1c3ab8cf15\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\b2fa408734b36ac8ec38efa4c57c75c5\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:17:1-46:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\ced1b2b0bfb394ed5cd30243b0f49862\jetified-play-services-measurement-sdk-21.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\0d63e74971be3c87688b19bc2773c68a\jetified-play-services-measurement-impl-21.0.0\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.3] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\5ed982a0646d8307dd82ad6adbccb1a7\jetified-play-services-stats-17.0.3\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.1] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\dfd1bd6346c53cce1651e73917b669c3\jetified-play-services-ads-identifier-18.0.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\4cb8fe33c40a363d82a04875d6a2b45a\jetified-play-services-measurement-sdk-api-21.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-measurement-base:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\57fc87b39e63ee0830ab7ef0bc4233c8\jetified-play-services-measurement-base-21.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\39677f263cb62a83ca8d86cd4481cf3b\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\e7364ba6eed0afa9eda39cd107079259\jetified-play-services-basement-18.1.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\14acdda41bcbfb6b3529429e2e2894e1\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\ac169fa81e9a7944eb31c0efb426a19c\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\b7cfdc71a3c0067d17e78163954b45cb\browser-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\32b817bb3d6185867c23dc707893c9db\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\0ed6822a4400528a4e8e6aaeea8e9a9f\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\69d7da41e6318c9e0ece8588216cbd95\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\2142c0cd03cfe021f4f37b792c8d9fae\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\929c51ff0e8b8dc658cc1cd55b976d79\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\aa4c8c19b653e750b868d1b5a877cdb5\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\baea455cf1f965dfa313d259f48d775e\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\d4f95e2acc947bde48795e58c889aaf6\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\ef2c0f188f5622426aeef741b302e204\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\05932ddf2b3f0158908f6c40ea7caa94\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\8a2aca6fcdb2d3d64cdf86afc8616430\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\f149e67227dca68221c4a88d7858edf4\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\5b85d2810f050021a3bd9764bed1b21a\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\6ac51789bc6861b3448c14d27974d787\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\7f3dad9aa08beed096d12c4806c4a037\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.2] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\1acef4355135e9339f2e8deabed46751\core-1.3.2\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\c3cf6497754b5516e4bb69f14b5cd20c\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\85a6f77b9c7a1221238ec7ecb756583d\exifinterface-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\b366a0631e69d0bdfc9c3115234f5ce3\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\c6ef45f6b24dc95460ee5d53b4438c5c\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\75da425fd01b46f59d54eaa50a2b3d54\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\d45fef2e9450fde1b21f8dca2942ab9d\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\fc7e926b685f4cbac6ecc1a1a1d24673\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\ecce3e2aff60940cd40402236e71b2ed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\1fcc745de15c45da4a58ca592d963242\jetified-firebase-components-17.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\e9c457313f5e0f0510e38f7fbbc5cade\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\e936d9be969623f3917cc812015e85e3\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\b84645ccf94950be90123ce8580b732e\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\5a94e2d190a49c104df6abd32f475fa9\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\70f00b8741c270cdd5322b06e1f122c9\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\8b05cd72b13d91f64141d1b23d956cf4\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.installreferrer:installreferrer:1.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\e2063994d80be177599f8f956a9a5d9d\jetified-installreferrer-1.0\AndroidManifest.xml:2:1-13:12
+INJECTED from D:\Project_Outsourcing\TapPoker_AndroidStudio0714\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from D:\Project_Outsourcing\TapPoker_AndroidStudio0714\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from D:\Project_Outsourcing\TapPoker_AndroidStudio0714\launcher\src\main\AndroidManifest.xml:2:1-5:12
+	package
+		ADDED from D:\Project_Outsourcing\TapPoker_AndroidStudio0714\launcher\src\main\AndroidManifest.xml:2:70-99
+		INJECTED from D:\Project_Outsourcing\TapPoker_AndroidStudio0714\launcher\src\main\AndroidManifest.xml
+		INJECTED from D:\Project_Outsourcing\TapPoker_AndroidStudio0714\launcher\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Project_Outsourcing\TapPoker_AndroidStudio0714\launcher\src\main\AndroidManifest.xml
+		ADDED from D:\Project_Outsourcing\TapPoker_AndroidStudio0714\launcher\src\main\AndroidManifest.xml:2:1-5:12
+		INJECTED from D:\Project_Outsourcing\TapPoker_AndroidStudio0714\launcher\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\Project_Outsourcing\TapPoker_AndroidStudio0714\launcher\src\main\AndroidManifest.xml:2:100-146
+	android:versionCode
+		INJECTED from D:\Project_Outsourcing\TapPoker_AndroidStudio0714\launcher\src\main\AndroidManifest.xml
+		ADDED from D:\Project_Outsourcing\TapPoker_AndroidStudio0714\launcher\src\main\AndroidManifest.xml:2:1-5:12
+		INJECTED from D:\Project_Outsourcing\TapPoker_AndroidStudio0714\launcher\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Project_Outsourcing\TapPoker_AndroidStudio0714\launcher\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from D:\Project_Outsourcing\TapPoker_AndroidStudio0714\launcher\src\main\AndroidManifest.xml:2:147-187
+supports-screens
+ADDED from D:\Project_Outsourcing\TapPoker_AndroidStudio0714\launcher\src\main\AndroidManifest.xml:3:3-163
+	android:largeScreens
+		ADDED from D:\Project_Outsourcing\TapPoker_AndroidStudio0714\launcher\src\main\AndroidManifest.xml:3:78-105
+	android:smallScreens
+		ADDED from D:\Project_Outsourcing\TapPoker_AndroidStudio0714\launcher\src\main\AndroidManifest.xml:3:21-48
+	android:normalScreens
+		ADDED from D:\Project_Outsourcing\TapPoker_AndroidStudio0714\launcher\src\main\AndroidManifest.xml:3:49-77
+	android:xlargeScreens
+		ADDED from D:\Project_Outsourcing\TapPoker_AndroidStudio0714\launcher\src\main\AndroidManifest.xml:3:106-134
+	android:anyDensity
+		ADDED from D:\Project_Outsourcing\TapPoker_AndroidStudio0714\launcher\src\main\AndroidManifest.xml:3:135-160
+application
+ADDED from D:\Project_Outsourcing\TapPoker_AndroidStudio0714\launcher\src\main\AndroidManifest.xml:4:3-126
+MERGED from [:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:40:5-91:19
+MERGED from [:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:40:5-91:19
+MERGED from [com.facebook.android:facebook-login:11.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\316aec7859919f383a6fb95cb6faf457\jetified-facebook-login-11.0.0\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:11.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\316aec7859919f383a6fb95cb6faf457\jetified-facebook-login-11.0.0\AndroidManifest.xml:28:5-29:19
+MERGED from [com.google.firebase:firebase-core:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\1f1552e5ac925c49ff897bf0812c0d5f\jetified-firebase-core-21.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\1f1552e5ac925c49ff897bf0812c0d5f\jetified-firebase-core-21.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-auth:20.2.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\56f8e6135e8d3f3990666372a4b37923\jetified-play-services-auth-20.2.0\AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:20.2.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\56f8e6135e8d3f3990666372a4b37923\jetified-play-services-auth-20.2.0\AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-plus:17.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\062be77b94f7e75abac30f42258e8f0d\jetified-play-services-plus-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus:17.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\062be77b94f7e75abac30f42258e8f0d\jetified-play-services-plus-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics:18.0.1] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\b9cdab80b1d815825dc0c786d3310fdd\jetified-play-services-analytics-18.0.1\AndroidManifest.xml:29:5-45:19
+MERGED from [com.google.android.gms:play-services-analytics:18.0.1] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\b9cdab80b1d815825dc0c786d3310fdd\jetified-play-services-analytics-18.0.1\AndroidManifest.xml:29:5-45:19
+MERGED from [com.google.android.gms:play-services-audience:17.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\8ef5a681e6ac4dff507af95d7eb6c70e\jetified-play-services-audience-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-audience:17.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\8ef5a681e6ac4dff507af95d7eb6c70e\jetified-play-services-audience-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:18.0.1] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\c2d1980dd11a6b620fbc93a6347505ef\jetified-play-services-tagmanager-v4-impl-18.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:18.0.1] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\c2d1980dd11a6b620fbc93a6347505ef\jetified-play-services-tagmanager-v4-impl-18.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:18.0.1] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\f7fad17baf2a6ffe09a40fc06d8155ca\jetified-play-services-analytics-impl-18.0.1\AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:18.0.1] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\f7fad17baf2a6ffe09a40fc06d8155ca\jetified-play-services-analytics-impl-18.0.1\AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\62a1a84319f646d62802aa4a8b9fc77c\jetified-play-services-base-18.1.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\62a1a84319f646d62802aa4a8b9fc77c\jetified-play-services-base-18.1.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.android.billingclient:billing:4.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\7e0e63b4db372a30b5f74e27d27517eb\jetified-billing-4.0.0\AndroidManifest.xml:12:5-22:19
+MERGED from [com.android.billingclient:billing:4.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\7e0e63b4db372a30b5f74e27d27517eb\jetified-billing-4.0.0\AndroidManifest.xml:12:5-22:19
+MERGED from [com.facebook.android:facebook-common:11.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\778a3cc3d23c536d9ec19f7baabe2745\jetified-facebook-common-11.0.0\AndroidManifest.xml:29:5-50:19
+MERGED from [com.facebook.android:facebook-common:11.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\778a3cc3d23c536d9ec19f7baabe2745\jetified-facebook-common-11.0.0\AndroidManifest.xml:29:5-50:19
+MERGED from [com.facebook.android:facebook-core:11.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\5e192b26cc7b1e19601a99bba2b6d1a3\jetified-facebook-core-11.0.0\AndroidManifest.xml:28:5-51:19
+MERGED from [com.facebook.android:facebook-core:11.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\5e192b26cc7b1e19601a99bba2b6d1a3\jetified-facebook-core-11.0.0\AndroidManifest.xml:28:5-51:19
+MERGED from [com.google.firebase:firebase-analytics:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\f427b3cceff1484dccaf9851e2719d41\jetified-firebase-analytics-21.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\f427b3cceff1484dccaf9851e2719d41\jetified-firebase-analytics-21.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\cb09fe77f0d3b6e15eb23e6a51983271\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\cb09fe77f0d3b6e15eb23e6a51983271\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\6a05c482ecd3e44ef7e028b27adbad14\jetified-firebase-installations-17.0.1\AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\6a05c482ecd3e44ef7e028b27adbad14\jetified-firebase-installations-17.0.1\AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-common:20.1.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\dd4fa3926b4f250faea617a70b87eec9\jetified-firebase-common-20.1.0\AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.firebase:firebase-common:20.1.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\dd4fa3926b4f250faea617a70b87eec9\jetified-firebase-common-20.1.0\AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\4f36c52772523ef3457f2b1c3ab8cf15\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\4f36c52772523ef3457f2b1c3ab8cf15\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\b2fa408734b36ac8ec38efa4c57c75c5\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\b2fa408734b36ac8ec38efa4c57c75c5\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\ced1b2b0bfb394ed5cd30243b0f49862\jetified-play-services-measurement-sdk-21.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\ced1b2b0bfb394ed5cd30243b0f49862\jetified-play-services-measurement-sdk-21.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\0d63e74971be3c87688b19bc2773c68a\jetified-play-services-measurement-impl-21.0.0\AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\0d63e74971be3c87688b19bc2773c68a\jetified-play-services-measurement-impl-21.0.0\AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.3] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\5ed982a0646d8307dd82ad6adbccb1a7\jetified-play-services-stats-17.0.3\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.3] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\5ed982a0646d8307dd82ad6adbccb1a7\jetified-play-services-stats-17.0.3\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.1] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\dfd1bd6346c53cce1651e73917b669c3\jetified-play-services-ads-identifier-18.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.1] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\dfd1bd6346c53cce1651e73917b669c3\jetified-play-services-ads-identifier-18.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\57fc87b39e63ee0830ab7ef0bc4233c8\jetified-play-services-measurement-base-21.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\57fc87b39e63ee0830ab7ef0bc4233c8\jetified-play-services-measurement-base-21.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\39677f263cb62a83ca8d86cd4481cf3b\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\39677f263cb62a83ca8d86cd4481cf3b\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\e7364ba6eed0afa9eda39cd107079259\jetified-play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\e7364ba6eed0afa9eda39cd107079259\jetified-play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.core:core:1.3.2] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\1acef4355135e9339f2e8deabed46751\core-1.3.2\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.2] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\1acef4355135e9339f2e8deabed46751\core-1.3.2\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\c3cf6497754b5516e4bb69f14b5cd20c\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\c3cf6497754b5516e4bb69f14b5cd20c\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [com.android.installreferrer:installreferrer:1.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\e2063994d80be177599f8f956a9a5d9d\jetified-installreferrer-1.0\AndroidManifest.xml:11:5-20
+MERGED from [com.android.installreferrer:installreferrer:1.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\e2063994d80be177599f8f956a9a5d9d\jetified-installreferrer-1.0\AndroidManifest.xml:11:5-20
+	android:extractNativeLibs
+		ADDED from [:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:40:18-50
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.2] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\1acef4355135e9339f2e8deabed46751\core-1.3.2\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from [com.facebook.android:facebook-login:11.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\316aec7859919f383a6fb95cb6faf457\jetified-facebook-login-11.0.0\AndroidManifest.xml:28:18-44
+	android:label
+		ADDED from D:\Project_Outsourcing\TapPoker_AndroidStudio0714\launcher\src\main\AndroidManifest.xml:4:16-48
+	android:roundIcon
+		ADDED from D:\Project_Outsourcing\TapPoker_AndroidStudio0714\launcher\src\main\AndroidManifest.xml:4:81-123
+	android:icon
+		ADDED from D:\Project_Outsourcing\TapPoker_AndroidStudio0714\launcher\src\main\AndroidManifest.xml:4:49-80
+uses-sdk
+INJECTED from D:\Project_Outsourcing\TapPoker_AndroidStudio0714\launcher\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Project_Outsourcing\TapPoker_AndroidStudio0714\launcher\src\main\AndroidManifest.xml
+INJECTED from D:\Project_Outsourcing\TapPoker_AndroidStudio0714\launcher\src\main\AndroidManifest.xml
+MERGED from [:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-10:41
+MERGED from [:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-10:41
+MERGED from [com.facebook.android:facebook-login:11.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\316aec7859919f383a6fb95cb6faf457\jetified-facebook-login-11.0.0\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:11.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\316aec7859919f383a6fb95cb6faf457\jetified-facebook-login-11.0.0\AndroidManifest.xml:24:5-26:41
+MERGED from [com.google.firebase:firebase-core:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\1f1552e5ac925c49ff897bf0812c0d5f\jetified-firebase-core-21.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\1f1552e5ac925c49ff897bf0812c0d5f\jetified-firebase-core-21.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth:20.2.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\56f8e6135e8d3f3990666372a4b37923\jetified-play-services-auth-20.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:20.2.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\56f8e6135e8d3f3990666372a4b37923\jetified-play-services-auth-20.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus:17.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\062be77b94f7e75abac30f42258e8f0d\jetified-play-services-plus-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus:17.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\062be77b94f7e75abac30f42258e8f0d\jetified-play-services-plus-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics:18.0.1] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\b9cdab80b1d815825dc0c786d3310fdd\jetified-play-services-analytics-18.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics:18.0.1] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\b9cdab80b1d815825dc0c786d3310fdd\jetified-play-services-analytics-18.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\f5e92fa98eeed0bc6c749ed863b2579b\jetified-play-services-auth-api-phone-18.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\f5e92fa98eeed0bc6c749ed863b2579b\jetified-play-services-auth-api-phone-18.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.1] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\82fcccf9585cad80bc8267b2d9eca8a9\jetified-play-services-auth-base-18.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.1] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\82fcccf9585cad80bc8267b2d9eca8a9\jetified-play-services-auth-base-18.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-audience:17.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\8ef5a681e6ac4dff507af95d7eb6c70e\jetified-play-services-audience-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-audience:17.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\8ef5a681e6ac4dff507af95d7eb6c70e\jetified-play-services-audience-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:18.0.1] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\c2d1980dd11a6b620fbc93a6347505ef\jetified-play-services-tagmanager-v4-impl-18.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:18.0.1] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\c2d1980dd11a6b620fbc93a6347505ef\jetified-play-services-tagmanager-v4-impl-18.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl:18.0.1] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\f7fad17baf2a6ffe09a40fc06d8155ca\jetified-play-services-analytics-impl-18.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl:18.0.1] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\f7fad17baf2a6ffe09a40fc06d8155ca\jetified-play-services-analytics-impl-18.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\62a1a84319f646d62802aa4a8b9fc77c\jetified-play-services-base-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\62a1a84319f646d62802aa4a8b9fc77c\jetified-play-services-base-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.8.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\0c7bbf85200c141c887d27c4b2c8fa78\jetified-android-image-cropper-2.8.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.8.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\0c7bbf85200c141c887d27c4b2c8fa78\jetified-android-image-cropper-2.8.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.billingclient:billing:4.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\7e0e63b4db372a30b5f74e27d27517eb\jetified-billing-4.0.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.billingclient:billing:4.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\7e0e63b4db372a30b5f74e27d27517eb\jetified-billing-4.0.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.facebook.android:facebook-common:11.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\778a3cc3d23c536d9ec19f7baabe2745\jetified-facebook-common-11.0.0\AndroidManifest.xml:25:5-27:41
+MERGED from [com.facebook.android:facebook-common:11.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\778a3cc3d23c536d9ec19f7baabe2745\jetified-facebook-common-11.0.0\AndroidManifest.xml:25:5-27:41
+MERGED from [com.facebook.android:facebook-core:11.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\5e192b26cc7b1e19601a99bba2b6d1a3\jetified-facebook-core-11.0.0\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:11.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\5e192b26cc7b1e19601a99bba2b6d1a3\jetified-facebook-core-11.0.0\AndroidManifest.xml:24:5-26:41
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\3a3423fa5af288a3e2fd74894b8b8613\jetified-core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\3a3423fa5af288a3e2fd74894b8b8613\jetified-core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\428f699ea1a8b6770ee6d8b89243813d\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\428f699ea1a8b6770ee6d8b89243813d\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-analytics:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\f427b3cceff1484dccaf9851e2719d41\jetified-firebase-analytics-21.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\f427b3cceff1484dccaf9851e2719d41\jetified-firebase-analytics-21.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\cb09fe77f0d3b6e15eb23e6a51983271\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\cb09fe77f0d3b6e15eb23e6a51983271\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\6a05c482ecd3e44ef7e028b27adbad14\jetified-firebase-installations-17.0.1\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\6a05c482ecd3e44ef7e028b27adbad14\jetified-firebase-installations-17.0.1\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:20.1.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\dd4fa3926b4f250faea617a70b87eec9\jetified-firebase-common-20.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:20.1.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\dd4fa3926b4f250faea617a70b87eec9\jetified-firebase-common-20.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.1] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\d9ee9c4d042ad7c73ab0b3577697c431\jetified-firebase-installations-interop-17.0.1\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.1] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\d9ee9c4d042ad7c73ab0b3577697c431\jetified-firebase-installations-interop-17.0.1\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\4f36c52772523ef3457f2b1c3ab8cf15\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\4f36c52772523ef3457f2b1c3ab8cf15\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\b2fa408734b36ac8ec38efa4c57c75c5\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\b2fa408734b36ac8ec38efa4c57c75c5\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\ced1b2b0bfb394ed5cd30243b0f49862\jetified-play-services-measurement-sdk-21.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\ced1b2b0bfb394ed5cd30243b0f49862\jetified-play-services-measurement-sdk-21.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\0d63e74971be3c87688b19bc2773c68a\jetified-play-services-measurement-impl-21.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\0d63e74971be3c87688b19bc2773c68a\jetified-play-services-measurement-impl-21.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.3] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\5ed982a0646d8307dd82ad6adbccb1a7\jetified-play-services-stats-17.0.3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.3] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\5ed982a0646d8307dd82ad6adbccb1a7\jetified-play-services-stats-17.0.3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.1] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\dfd1bd6346c53cce1651e73917b669c3\jetified-play-services-ads-identifier-18.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.1] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\dfd1bd6346c53cce1651e73917b669c3\jetified-play-services-ads-identifier-18.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\4cb8fe33c40a363d82a04875d6a2b45a\jetified-play-services-measurement-sdk-api-21.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\4cb8fe33c40a363d82a04875d6a2b45a\jetified-play-services-measurement-sdk-api-21.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\57fc87b39e63ee0830ab7ef0bc4233c8\jetified-play-services-measurement-base-21.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\57fc87b39e63ee0830ab7ef0bc4233c8\jetified-play-services-measurement-base-21.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\39677f263cb62a83ca8d86cd4481cf3b\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\39677f263cb62a83ca8d86cd4481cf3b\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\e7364ba6eed0afa9eda39cd107079259\jetified-play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\e7364ba6eed0afa9eda39cd107079259\jetified-play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\14acdda41bcbfb6b3529429e2e2894e1\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\14acdda41bcbfb6b3529429e2e2894e1\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\ac169fa81e9a7944eb31c0efb426a19c\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\ac169fa81e9a7944eb31c0efb426a19c\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\b7cfdc71a3c0067d17e78163954b45cb\browser-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\b7cfdc71a3c0067d17e78163954b45cb\browser-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\32b817bb3d6185867c23dc707893c9db\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\32b817bb3d6185867c23dc707893c9db\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\0ed6822a4400528a4e8e6aaeea8e9a9f\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\0ed6822a4400528a4e8e6aaeea8e9a9f\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\69d7da41e6318c9e0ece8588216cbd95\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\69d7da41e6318c9e0ece8588216cbd95\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\2142c0cd03cfe021f4f37b792c8d9fae\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\2142c0cd03cfe021f4f37b792c8d9fae\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\929c51ff0e8b8dc658cc1cd55b976d79\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\929c51ff0e8b8dc658cc1cd55b976d79\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\aa4c8c19b653e750b868d1b5a877cdb5\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\aa4c8c19b653e750b868d1b5a877cdb5\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\baea455cf1f965dfa313d259f48d775e\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\baea455cf1f965dfa313d259f48d775e\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\d4f95e2acc947bde48795e58c889aaf6\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\d4f95e2acc947bde48795e58c889aaf6\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\ef2c0f188f5622426aeef741b302e204\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\ef2c0f188f5622426aeef741b302e204\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\05932ddf2b3f0158908f6c40ea7caa94\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\05932ddf2b3f0158908f6c40ea7caa94\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\8a2aca6fcdb2d3d64cdf86afc8616430\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\8a2aca6fcdb2d3d64cdf86afc8616430\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\f149e67227dca68221c4a88d7858edf4\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\f149e67227dca68221c4a88d7858edf4\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\5b85d2810f050021a3bd9764bed1b21a\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\5b85d2810f050021a3bd9764bed1b21a\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\6ac51789bc6861b3448c14d27974d787\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\6ac51789bc6861b3448c14d27974d787\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\7f3dad9aa08beed096d12c4806c4a037\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\7f3dad9aa08beed096d12c4806c4a037\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.2] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\1acef4355135e9339f2e8deabed46751\core-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\1acef4355135e9339f2e8deabed46751\core-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\c3cf6497754b5516e4bb69f14b5cd20c\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\c3cf6497754b5516e4bb69f14b5cd20c\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\85a6f77b9c7a1221238ec7ecb756583d\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\85a6f77b9c7a1221238ec7ecb756583d\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\b366a0631e69d0bdfc9c3115234f5ce3\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\b366a0631e69d0bdfc9c3115234f5ce3\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\c6ef45f6b24dc95460ee5d53b4438c5c\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\c6ef45f6b24dc95460ee5d53b4438c5c\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\75da425fd01b46f59d54eaa50a2b3d54\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\75da425fd01b46f59d54eaa50a2b3d54\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\d45fef2e9450fde1b21f8dca2942ab9d\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\d45fef2e9450fde1b21f8dca2942ab9d\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\fc7e926b685f4cbac6ecc1a1a1d24673\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\fc7e926b685f4cbac6ecc1a1a1d24673\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\ecce3e2aff60940cd40402236e71b2ed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\ecce3e2aff60940cd40402236e71b2ed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\1fcc745de15c45da4a58ca592d963242\jetified-firebase-components-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\1fcc745de15c45da4a58ca592d963242\jetified-firebase-components-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\e9c457313f5e0f0510e38f7fbbc5cade\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\e9c457313f5e0f0510e38f7fbbc5cade\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\e936d9be969623f3917cc812015e85e3\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\e936d9be969623f3917cc812015e85e3\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\b84645ccf94950be90123ce8580b732e\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\b84645ccf94950be90123ce8580b732e\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\5a94e2d190a49c104df6abd32f475fa9\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\5a94e2d190a49c104df6abd32f475fa9\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\70f00b8741c270cdd5322b06e1f122c9\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\70f00b8741c270cdd5322b06e1f122c9\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\8b05cd72b13d91f64141d1b23d956cf4\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\8b05cd72b13d91f64141d1b23d956cf4\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.installreferrer:installreferrer:1.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\e2063994d80be177599f8f956a9a5d9d\jetified-installreferrer-1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.installreferrer:installreferrer:1.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\e2063994d80be177599f8f956a9a5d9d\jetified-installreferrer-1.0\AndroidManifest.xml:5:5-7:41
+INJECTED from D:\Project_Outsourcing\TapPoker_AndroidStudio0714\launcher\src\main\AndroidManifest.xml
+INJECTED from D:\Project_Outsourcing\TapPoker_AndroidStudio0714\launcher\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Project_Outsourcing\TapPoker_AndroidStudio0714\launcher\src\main\AndroidManifest.xml
+		ADDED from D:\Project_Outsourcing\TapPoker_AndroidStudio0714\launcher\src\main\AndroidManifest.xml
+		INJECTED from D:\Project_Outsourcing\TapPoker_AndroidStudio0714\launcher\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Project_Outsourcing\TapPoker_AndroidStudio0714\launcher\src\main\AndroidManifest.xml
+		ADDED from D:\Project_Outsourcing\TapPoker_AndroidStudio0714\launcher\src\main\AndroidManifest.xml
+		INJECTED from D:\Project_Outsourcing\TapPoker_AndroidStudio0714\launcher\src\main\AndroidManifest.xml
+uses-feature#0x00030000
+ADDED from [:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-54
+	android:glEsVersion
+		ADDED from [:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:19-51
+uses-feature#android.hardware.vulkan.version
+ADDED from [:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-15:36
+	android:required
+		ADDED from [:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:9-33
+	android:name
+		ADDED from [:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:9-55
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from [:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:5-71
+	android:name
+		ADDED from [:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:22-68
+uses-permission#android.permission.INTERNET
+ADDED from [:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:5-67
+MERGED from [com.google.android.gms:play-services-analytics:18.0.1] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\b9cdab80b1d815825dc0c786d3310fdd\jetified-play-services-analytics-18.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics:18.0.1] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\b9cdab80b1d815825dc0c786d3310fdd\jetified-play-services-analytics-18.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:18.0.1] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\f7fad17baf2a6ffe09a40fc06d8155ca\jetified-play-services-analytics-impl-18.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:18.0.1] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\f7fad17baf2a6ffe09a40fc06d8155ca\jetified-play-services-analytics-impl-18.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\cb09fe77f0d3b6e15eb23e6a51983271\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\cb09fe77f0d3b6e15eb23e6a51983271\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\6a05c482ecd3e44ef7e028b27adbad14\jetified-firebase-installations-17.0.1\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\6a05c482ecd3e44ef7e028b27adbad14\jetified-firebase-installations-17.0.1\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\b2fa408734b36ac8ec38efa4c57c75c5\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\b2fa408734b36ac8ec38efa4c57c75c5\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\0d63e74971be3c87688b19bc2773c68a\jetified-play-services-measurement-impl-21.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\0d63e74971be3c87688b19bc2773c68a\jetified-play-services-measurement-impl-21.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\4cb8fe33c40a363d82a04875d6a2b45a\jetified-play-services-measurement-sdk-api-21.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\4cb8fe33c40a363d82a04875d6a2b45a\jetified-play-services-measurement-sdk-api-21.0.0\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from [:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:5-76
+	android:name
+		ADDED from [:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from [:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:20:5-76
+	android:name
+		ADDED from [:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:20:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:21:5-79
+MERGED from [com.google.android.gms:play-services-analytics:18.0.1] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\b9cdab80b1d815825dc0c786d3310fdd\jetified-play-services-analytics-18.0.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics:18.0.1] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\b9cdab80b1d815825dc0c786d3310fdd\jetified-play-services-analytics-18.0.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:18.0.1] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\f7fad17baf2a6ffe09a40fc06d8155ca\jetified-play-services-analytics-impl-18.0.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:18.0.1] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\f7fad17baf2a6ffe09a40fc06d8155ca\jetified-play-services-analytics-impl-18.0.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\cb09fe77f0d3b6e15eb23e6a51983271\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\cb09fe77f0d3b6e15eb23e6a51983271\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\6a05c482ecd3e44ef7e028b27adbad14\jetified-firebase-installations-17.0.1\AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\6a05c482ecd3e44ef7e028b27adbad14\jetified-firebase-installations-17.0.1\AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\b2fa408734b36ac8ec38efa4c57c75c5\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\b2fa408734b36ac8ec38efa4c57c75c5\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\0d63e74971be3c87688b19bc2773c68a\jetified-play-services-measurement-impl-21.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\0d63e74971be3c87688b19bc2773c68a\jetified-play-services-measurement-impl-21.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\4cb8fe33c40a363d82a04875d6a2b45a\jetified-play-services-measurement-sdk-api-21.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\4cb8fe33c40a363d82a04875d6a2b45a\jetified-play-services-measurement-sdk-api-21.0.0\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:21:22-76
+uses-permission#android.permission.VIBRATE
+ADDED from [:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:22:5-66
+	android:name
+		ADDED from [:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:22:22-63
+uses-permission#com.android.vending.BILLING
+ADDED from [:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:23:5-67
+MERGED from [com.android.billingclient:billing:4.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\7e0e63b4db372a30b5f74e27d27517eb\jetified-billing-4.0.0\AndroidManifest.xml:10:5-67
+MERGED from [com.android.billingclient:billing:4.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\7e0e63b4db372a30b5f74e27d27517eb\jetified-billing-4.0.0\AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from [:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:23:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:24:5-80
+	android:name
+		ADDED from [:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:24:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:25:5-81
+	android:name
+		ADDED from [:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:25:22-78
+uses-feature#android.software.leanback
+ADDED from [:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:27:5-29:36
+	android:required
+		ADDED from [:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:29:9-33
+	android:name
+		ADDED from [:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:28:9-49
+uses-feature#android.hardware.touchscreen
+ADDED from [:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:30:5-32:36
+	android:required
+		ADDED from [:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:32:9-33
+	android:name
+		ADDED from [:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:31:9-52
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from [:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:33:5-35:36
+	android:required
+		ADDED from [:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:35:9-33
+	android:name
+		ADDED from [:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:34:9-63
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from [:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:36:5-38:36
+	android:required
+		ADDED from [:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:38:9-33
+	android:name
+		ADDED from [:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:37:9-72
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from [:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:41:9-62:20
+	android:screenOrientation
+		ADDED from [:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:48:13-50
+	android:launchMode
+		ADDED from [:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:46:13-44
+	android:hardwareAccelerated
+		ADDED from [:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:45:13-48
+	android:exported
+		ADDED from [:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:44:13-36
+	android:resizeableActivity
+		ADDED from [:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:47:13-47
+	android:configChanges
+		ADDED from [:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:43:13-194
+	android:theme
+		ADDED from [:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:49:13-54
+	android:name
+		ADDED from [:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:42:13-66
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:50:13-54:29
+action#android.intent.action.MAIN
+ADDED from [:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:51:17-69
+	android:name
+		ADDED from [:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:51:25-66
+category#android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:53:17-77
+	android:name
+		ADDED from [:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:53:27-74
+meta-data#unityplayer.UnityActivity
+ADDED from [:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:56:13-58:40
+	android:value
+		ADDED from [:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:58:17-37
+	android:name
+		ADDED from [:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:57:17-57
+meta-data#android.notch_support
+ADDED from [:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:59:13-61:40
+	android:value
+		ADDED from [:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:61:17-37
+	android:name
+		ADDED from [:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:60:17-53
+meta-data#unity.splash-mode
+ADDED from [:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:64:9-66:33
+	android:value
+		ADDED from [:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:66:13-30
+	android:name
+		ADDED from [:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:65:13-45
+meta-data#unity.splash-enable
+ADDED from [:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:67:9-69:36
+	android:value
+		ADDED from [:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:69:13-33
+	android:name
+		ADDED from [:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:68:13-47
+meta-data#unity.launch-fullscreen
+ADDED from [:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:70:9-72:36
+	android:value
+		ADDED from [:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:72:13-33
+	android:name
+		ADDED from [:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:71:13-51
+meta-data#unity.allow-resizable-window
+ADDED from [:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:73:9-75:37
+	android:value
+		ADDED from [:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:75:13-34
+	android:name
+		ADDED from [:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:74:13-56
+meta-data#notch.config
+ADDED from [:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:76:9-78:50
+	android:value
+		ADDED from [:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:78:13-47
+	android:name
+		ADDED from [:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:77:13-40
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from [:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:81:9-83:53
+	android:value
+		ADDED from [:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:83:13-50
+	android:name
+		ADDED from [:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:82:13-58
+meta-data#android.max_aspect
+ADDED from [:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:84:9-86:35
+	android:value
+		ADDED from [:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:86:13-32
+	android:name
+		ADDED from [:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:85:13-46
+activity#com.theartofdev.edmodo.cropper.CropImageActivity
+ADDED from [:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:88:9-90:59
+	android:theme
+		ADDED from [:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:90:13-56
+	android:name
+		ADDED from [:unityLibrary] D:\Project_Outsourcing\TapPoker_AndroidStudio0714\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:89:13-76
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:20.2.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\56f8e6135e8d3f3990666372a4b37923\jetified-play-services-auth-20.2.0\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:20.2.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\56f8e6135e8d3f3990666372a4b37923\jetified-play-services-auth-20.2.0\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.2.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\56f8e6135e8d3f3990666372a4b37923\jetified-play-services-auth-20.2.0\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:20.2.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\56f8e6135e8d3f3990666372a4b37923\jetified-play-services-auth-20.2.0\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.2.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\56f8e6135e8d3f3990666372a4b37923\jetified-play-services-auth-20.2.0\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:20.2.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\56f8e6135e8d3f3990666372a4b37923\jetified-play-services-auth-20.2.0\AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.2.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\56f8e6135e8d3f3990666372a4b37923\jetified-play-services-auth-20.2.0\AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:20.2.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\56f8e6135e8d3f3990666372a4b37923\jetified-play-services-auth-20.2.0\AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:20.2.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\56f8e6135e8d3f3990666372a4b37923\jetified-play-services-auth-20.2.0\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.2.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\56f8e6135e8d3f3990666372a4b37923\jetified-play-services-auth-20.2.0\AndroidManifest.xml:34:13-89
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:18.0.1] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\b9cdab80b1d815825dc0c786d3310fdd\jetified-play-services-analytics-18.0.1\AndroidManifest.xml:27:5-68
+MERGED from [com.google.android.gms:play-services-analytics-impl:18.0.1] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\f7fad17baf2a6ffe09a40fc06d8155ca\jetified-play-services-analytics-impl-18.0.1\AndroidManifest.xml:27:5-68
+MERGED from [com.google.android.gms:play-services-analytics-impl:18.0.1] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\f7fad17baf2a6ffe09a40fc06d8155ca\jetified-play-services-analytics-impl-18.0.1\AndroidManifest.xml:27:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\cb09fe77f0d3b6e15eb23e6a51983271\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\cb09fe77f0d3b6e15eb23e6a51983271\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\b2fa408734b36ac8ec38efa4c57c75c5\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\b2fa408734b36ac8ec38efa4c57c75c5\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\0d63e74971be3c87688b19bc2773c68a\jetified-play-services-measurement-impl-21.0.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\0d63e74971be3c87688b19bc2773c68a\jetified-play-services-measurement-impl-21.0.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\4cb8fe33c40a363d82a04875d6a2b45a\jetified-play-services-measurement-sdk-api-21.0.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\4cb8fe33c40a363d82a04875d6a2b45a\jetified-play-services-measurement-sdk-api-21.0.0\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:18.0.1] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\b9cdab80b1d815825dc0c786d3310fdd\jetified-play-services-analytics-18.0.1\AndroidManifest.xml:27:22-65
+receiver#com.google.android.gms.analytics.AnalyticsReceiver
+ADDED from [com.google.android.gms:play-services-analytics:18.0.1] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\b9cdab80b1d815825dc0c786d3310fdd\jetified-play-services-analytics-18.0.1\AndroidManifest.xml:30:9-34:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:18.0.1] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\b9cdab80b1d815825dc0c786d3310fdd\jetified-play-services-analytics-18.0.1\AndroidManifest.xml:32:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:18.0.1] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\b9cdab80b1d815825dc0c786d3310fdd\jetified-play-services-analytics-18.0.1\AndroidManifest.xml:33:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:18.0.1] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\b9cdab80b1d815825dc0c786d3310fdd\jetified-play-services-analytics-18.0.1\AndroidManifest.xml:31:13-78
+service#com.google.android.gms.analytics.AnalyticsService
+ADDED from [com.google.android.gms:play-services-analytics:18.0.1] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\b9cdab80b1d815825dc0c786d3310fdd\jetified-play-services-analytics-18.0.1\AndroidManifest.xml:36:9-39:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:18.0.1] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\b9cdab80b1d815825dc0c786d3310fdd\jetified-play-services-analytics-18.0.1\AndroidManifest.xml:38:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:18.0.1] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\b9cdab80b1d815825dc0c786d3310fdd\jetified-play-services-analytics-18.0.1\AndroidManifest.xml:39:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:18.0.1] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\b9cdab80b1d815825dc0c786d3310fdd\jetified-play-services-analytics-18.0.1\AndroidManifest.xml:37:13-77
+service#com.google.android.gms.analytics.AnalyticsJobService
+ADDED from [com.google.android.gms:play-services-analytics:18.0.1] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\b9cdab80b1d815825dc0c786d3310fdd\jetified-play-services-analytics-18.0.1\AndroidManifest.xml:40:9-44:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:18.0.1] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\b9cdab80b1d815825dc0c786d3310fdd\jetified-play-services-analytics-18.0.1\AndroidManifest.xml:42:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:18.0.1] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\b9cdab80b1d815825dc0c786d3310fdd\jetified-play-services-analytics-18.0.1\AndroidManifest.xml:43:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-analytics:18.0.1] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\b9cdab80b1d815825dc0c786d3310fdd\jetified-play-services-analytics-18.0.1\AndroidManifest.xml:44:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:18.0.1] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\b9cdab80b1d815825dc0c786d3310fdd\jetified-play-services-analytics-18.0.1\AndroidManifest.xml:41:13-80
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\62a1a84319f646d62802aa4a8b9fc77c\jetified-play-services-base-18.1.0\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\62a1a84319f646d62802aa4a8b9fc77c\jetified-play-services-base-18.1.0\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\62a1a84319f646d62802aa4a8b9fc77c\jetified-play-services-base-18.1.0\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\62a1a84319f646d62802aa4a8b9fc77c\jetified-play-services-base-18.1.0\AndroidManifest.xml:20:19-85
+meta-data#com.google.android.play.billingclient.version
+ADDED from [com.android.billingclient:billing:4.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\7e0e63b4db372a30b5f74e27d27517eb\jetified-billing-4.0.0\AndroidManifest.xml:13:9-15:37
+	android:value
+		ADDED from [com.android.billingclient:billing:4.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\7e0e63b4db372a30b5f74e27d27517eb\jetified-billing-4.0.0\AndroidManifest.xml:15:13-34
+	android:name
+		ADDED from [com.android.billingclient:billing:4.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\7e0e63b4db372a30b5f74e27d27517eb\jetified-billing-4.0.0\AndroidManifest.xml:14:13-73
+activity#com.android.billingclient.api.ProxyBillingActivity
+ADDED from [com.android.billingclient:billing:4.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\7e0e63b4db372a30b5f74e27d27517eb\jetified-billing-4.0.0\AndroidManifest.xml:17:9-21:75
+	android:exported
+		ADDED from [com.android.billingclient:billing:4.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\7e0e63b4db372a30b5f74e27d27517eb\jetified-billing-4.0.0\AndroidManifest.xml:20:13-37
+	android:configChanges
+		ADDED from [com.android.billingclient:billing:4.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\7e0e63b4db372a30b5f74e27d27517eb\jetified-billing-4.0.0\AndroidManifest.xml:19:13-96
+	android:theme
+		ADDED from [com.android.billingclient:billing:4.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\7e0e63b4db372a30b5f74e27d27517eb\jetified-billing-4.0.0\AndroidManifest.xml:21:13-72
+	android:name
+		ADDED from [com.android.billingclient:billing:4.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\7e0e63b4db372a30b5f74e27d27517eb\jetified-billing-4.0.0\AndroidManifest.xml:18:13-78
+activity#com.facebook.FacebookActivity
+ADDED from [com.facebook.android:facebook-common:11.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\778a3cc3d23c536d9ec19f7baabe2745\jetified-facebook-common-11.0.0\AndroidManifest.xml:30:9-33:66
+	android:configChanges
+		ADDED from [com.facebook.android:facebook-common:11.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\778a3cc3d23c536d9ec19f7baabe2745\jetified-facebook-common-11.0.0\AndroidManifest.xml:32:13-96
+	android:theme
+		ADDED from [com.facebook.android:facebook-common:11.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\778a3cc3d23c536d9ec19f7baabe2745\jetified-facebook-common-11.0.0\AndroidManifest.xml:33:13-63
+	android:name
+		ADDED from [com.facebook.android:facebook-common:11.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\778a3cc3d23c536d9ec19f7baabe2745\jetified-facebook-common-11.0.0\AndroidManifest.xml:31:13-57
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-common:11.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\778a3cc3d23c536d9ec19f7baabe2745\jetified-facebook-common-11.0.0\AndroidManifest.xml:34:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-common:11.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\778a3cc3d23c536d9ec19f7baabe2745\jetified-facebook-common-11.0.0\AndroidManifest.xml:34:19-68
+activity#com.facebook.CustomTabActivity
+ADDED from [com.facebook.android:facebook-common:11.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\778a3cc3d23c536d9ec19f7baabe2745\jetified-facebook-common-11.0.0\AndroidManifest.xml:35:9-49:20
+	tools:node
+		ADDED from [com.facebook.android:facebook-common:11.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\778a3cc3d23c536d9ec19f7baabe2745\jetified-facebook-common-11.0.0\AndroidManifest.xml:38:13-31
+	android:exported
+		ADDED from [com.facebook.android:facebook-common:11.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\778a3cc3d23c536d9ec19f7baabe2745\jetified-facebook-common-11.0.0\AndroidManifest.xml:37:13-36
+	android:name
+		ADDED from [com.facebook.android:facebook-common:11.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\778a3cc3d23c536d9ec19f7baabe2745\jetified-facebook-common-11.0.0\AndroidManifest.xml:36:13-58
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:cct.${applicationId}+data:scheme:fbconnect
+ADDED from [com.facebook.android:facebook-common:11.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\778a3cc3d23c536d9ec19f7baabe2745\jetified-facebook-common-11.0.0\AndroidManifest.xml:39:13-48:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:cct.com.freeon.tappoker+data:scheme:fbconnect
+ADDED from [com.facebook.android:facebook-common:11.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\778a3cc3d23c536d9ec19f7baabe2745\jetified-facebook-common-11.0.0\AndroidManifest.xml:39:13-48:29
+action#android.intent.action.VIEW
+ADDED from [com.facebook.android:facebook-common:11.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\778a3cc3d23c536d9ec19f7baabe2745\jetified-facebook-common-11.0.0\AndroidManifest.xml:40:17-69
+	android:name
+		ADDED from [com.facebook.android:facebook-common:11.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\778a3cc3d23c536d9ec19f7baabe2745\jetified-facebook-common-11.0.0\AndroidManifest.xml:40:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.facebook.android:facebook-common:11.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\778a3cc3d23c536d9ec19f7baabe2745\jetified-facebook-common-11.0.0\AndroidManifest.xml:42:17-76
+	android:name
+		ADDED from [com.facebook.android:facebook-common:11.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\778a3cc3d23c536d9ec19f7baabe2745\jetified-facebook-common-11.0.0\AndroidManifest.xml:42:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.facebook.android:facebook-common:11.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\778a3cc3d23c536d9ec19f7baabe2745\jetified-facebook-common-11.0.0\AndroidManifest.xml:43:17-78
+	android:name
+		ADDED from [com.facebook.android:facebook-common:11.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\778a3cc3d23c536d9ec19f7baabe2745\jetified-facebook-common-11.0.0\AndroidManifest.xml:43:27-75
+data
+ADDED from [com.facebook.android:facebook-common:11.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\778a3cc3d23c536d9ec19f7baabe2745\jetified-facebook-common-11.0.0\AndroidManifest.xml:45:17-47:50
+	android:host
+		ADDED from [com.facebook.android:facebook-common:11.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\778a3cc3d23c536d9ec19f7baabe2745\jetified-facebook-common-11.0.0\AndroidManifest.xml:46:21-56
+	android:scheme
+		ADDED from [com.facebook.android:facebook-common:11.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\778a3cc3d23c536d9ec19f7baabe2745\jetified-facebook-common-11.0.0\AndroidManifest.xml:47:21-47
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-core:11.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\5e192b26cc7b1e19601a99bba2b6d1a3\jetified-facebook-core-11.0.0\AndroidManifest.xml:39:9-42:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-core:11.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\5e192b26cc7b1e19601a99bba2b6d1a3\jetified-facebook-core-11.0.0\AndroidManifest.xml:41:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:11.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\5e192b26cc7b1e19601a99bba2b6d1a3\jetified-facebook-core-11.0.0\AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:11.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\5e192b26cc7b1e19601a99bba2b6d1a3\jetified-facebook-core-11.0.0\AndroidManifest.xml:40:13-70
+receiver#com.facebook.CurrentAccessTokenExpirationBroadcastReceiver
+ADDED from [com.facebook.android:facebook-core:11.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\5e192b26cc7b1e19601a99bba2b6d1a3\jetified-facebook-core-11.0.0\AndroidManifest.xml:44:9-50:20
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:11.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\5e192b26cc7b1e19601a99bba2b6d1a3\jetified-facebook-core-11.0.0\AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:11.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\5e192b26cc7b1e19601a99bba2b6d1a3\jetified-facebook-core-11.0.0\AndroidManifest.xml:45:13-86
+intent-filter#action:name:com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:11.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\5e192b26cc7b1e19601a99bba2b6d1a3\jetified-facebook-core-11.0.0\AndroidManifest.xml:47:13-49:29
+action#com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:11.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\5e192b26cc7b1e19601a99bba2b6d1a3\jetified-facebook-core-11.0.0\AndroidManifest.xml:48:17-95
+	android:name
+		ADDED from [com.facebook.android:facebook-core:11.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\5e192b26cc7b1e19601a99bba2b6d1a3\jetified-facebook-core-11.0.0\AndroidManifest.xml:48:25-92
+uses-permission#com.google.android.gms.permission.AD_ID
+ADDED from [com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\cb09fe77f0d3b6e15eb23e6a51983271\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\0d63e74971be3c87688b19bc2773c68a\jetified-play-services-measurement-impl-21.0.0\AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\0d63e74971be3c87688b19bc2773c68a\jetified-play-services-measurement-impl-21.0.0\AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.1] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\dfd1bd6346c53cce1651e73917b669c3\jetified-play-services-ads-identifier-18.0.1\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.1] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\dfd1bd6346c53cce1651e73917b669c3\jetified-play-services-ads-identifier-18.0.1\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\4cb8fe33c40a363d82a04875d6a2b45a\jetified-play-services-measurement-sdk-api-21.0.0\AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\4cb8fe33c40a363d82a04875d6a2b45a\jetified-play-services-measurement-sdk-api-21.0.0\AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\cb09fe77f0d3b6e15eb23e6a51983271\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:25:22-76
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\cb09fe77f0d3b6e15eb23e6a51983271\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\6a05c482ecd3e44ef7e028b27adbad14\jetified-firebase-installations-17.0.1\AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\6a05c482ecd3e44ef7e028b27adbad14\jetified-firebase-installations-17.0.1\AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-common:20.1.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\dd4fa3926b4f250faea617a70b87eec9\jetified-firebase-common-20.1.0\AndroidManifest.xml:33:9-37:35
+MERGED from [com.google.firebase:firebase-common:20.1.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\dd4fa3926b4f250faea617a70b87eec9\jetified-firebase-common-20.1.0\AndroidManifest.xml:33:9-37:35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\cb09fe77f0d3b6e15eb23e6a51983271\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:30:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.1.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\dd4fa3926b4f250faea617a70b87eec9\jetified-firebase-common-20.1.0\AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.1.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\dd4fa3926b4f250faea617a70b87eec9\jetified-firebase-common-20.1.0\AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\cb09fe77f0d3b6e15eb23e6a51983271\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:29:13-84
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\cb09fe77f0d3b6e15eb23e6a51983271\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:31:13-33:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\cb09fe77f0d3b6e15eb23e6a51983271\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:33:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\cb09fe77f0d3b6e15eb23e6a51983271\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:32:17-139
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\6a05c482ecd3e44ef7e028b27adbad14\jetified-firebase-installations-17.0.1\AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\6a05c482ecd3e44ef7e028b27adbad14\jetified-firebase-installations-17.0.1\AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\6a05c482ecd3e44ef7e028b27adbad14\jetified-firebase-installations-17.0.1\AndroidManifest.xml:19:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.1.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\dd4fa3926b4f250faea617a70b87eec9\jetified-firebase-common-20.1.0\AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.1.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\dd4fa3926b4f250faea617a70b87eec9\jetified-firebase-common-20.1.0\AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.1.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\dd4fa3926b4f250faea617a70b87eec9\jetified-firebase-common-20.1.0\AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.1.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\dd4fa3926b4f250faea617a70b87eec9\jetified-firebase-common-20.1.0\AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.1.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\dd4fa3926b4f250faea617a70b87eec9\jetified-firebase-common-20.1.0\AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.1.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\dd4fa3926b4f250faea617a70b87eec9\jetified-firebase-common-20.1.0\AndroidManifest.xml:27:13-77
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\b2fa408734b36ac8ec38efa4c57c75c5\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\0d63e74971be3c87688b19bc2773c68a\jetified-play-services-measurement-impl-21.0.0\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\0d63e74971be3c87688b19bc2773c68a\jetified-play-services-measurement-impl-21.0.0\AndroidManifest.xml:26:5-110
+MERGED from [com.android.installreferrer:installreferrer:1.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\e2063994d80be177599f8f956a9a5d9d\jetified-installreferrer-1.0\AndroidManifest.xml:9:5-110
+MERGED from [com.android.installreferrer:installreferrer:1.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\e2063994d80be177599f8f956a9a5d9d\jetified-installreferrer-1.0\AndroidManifest.xml:9:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\b2fa408734b36ac8ec38efa4c57c75c5\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\b2fa408734b36ac8ec38efa4c57c75c5\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\b2fa408734b36ac8ec38efa4c57c75c5\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\b2fa408734b36ac8ec38efa4c57c75c5\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\b2fa408734b36ac8ec38efa4c57c75c5\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:30:13-85
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\b2fa408734b36ac8ec38efa4c57c75c5\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\b2fa408734b36ac8ec38efa4c57c75c5\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\b2fa408734b36ac8ec38efa4c57c75c5\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\b2fa408734b36ac8ec38efa4c57c75c5\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:36:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\b2fa408734b36ac8ec38efa4c57c75c5\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:39:9-43:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\b2fa408734b36ac8ec38efa4c57c75c5\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\b2fa408734b36ac8ec38efa4c57c75c5\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:42:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\b2fa408734b36ac8ec38efa4c57c75c5\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\b2fa408734b36ac8ec38efa4c57c75c5\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:40:13-87
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\e7364ba6eed0afa9eda39cd107079259\jetified-play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\e7364ba6eed0afa9eda39cd107079259\jetified-play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\fanta\.gradle\caches\transforms-2\files-2.1\e7364ba6eed0afa9eda39cd107079259\jetified-play-services-basement-18.1.0\AndroidManifest.xml:22:13-58

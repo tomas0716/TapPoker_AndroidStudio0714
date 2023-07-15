@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "197604352475",
+    "firebase_url": "https://api-project-197604352475.firebaseio.com",
+    "project_id": "api-project-197604352475",
+    "storage_bucket": "api-project-197604352475.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197604352475:android:c3416f3a050bfcf1",
+        "android_client_info": {
+          "package_name": "com.freeon.tappoker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197604352475-epj4h89qv2fnc689kil2t9g13k7aokj6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.freeon.tappoker",
+            "certificate_hash": "18D6855F67B34F240D7C4CFD92551842E0711551"
+          }
+        },
+        {
+          "client_id": "197604352475-fv4uoaonspufdkp5jie5uuvvco8bbnht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi2qgmxuicMa7UYGy00Br_NhOsBQ2agTU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197604352475-fv4uoaonspufdkp5jie5uuvvco8bbnht.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "197604352475-q2sm33vuhj4b0e8c2uo2iiig5lp319us.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.freeon.TapPokerSE"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197604352475:android:98e749cb82cb8001",
+        "android_client_info": {
+          "package_name": "com.freeon.playchessG"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197604352475-fv4uoaonspufdkp5jie5uuvvco8bbnht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi2qgmxuicMa7UYGy00Br_NhOsBQ2agTU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

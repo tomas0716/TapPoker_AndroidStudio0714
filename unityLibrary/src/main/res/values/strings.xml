@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="game_view_content_description">Game view</string>
+
+  <string name="app_name">Tap poker</string>
+  <string name="facebookAppID">224217204261964</string>
+  <string name="Camera">Camera</string>
+  <string name="Photo_library">Photo library</string>
+  <string name="Cancel">Cancel</string>
+  <string name="fb_login_protocol_scheme">fb224217204261964</string>
+
+</resources>
